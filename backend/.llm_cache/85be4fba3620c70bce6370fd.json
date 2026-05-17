@@ -1,0 +1,12 @@
+{
+  "brand_consistency": 20,
+  "spec_consistency": 40,
+  "seller_score": 30,
+  "overall_authenticity": 30,
+  "flags": [
+    "Başlıkta tüm büyük harf ve abartılı ifadeler",
+    "Açıklama belirsiz, teknik detay yok",
+    "Satıcı düşük ratingli ve az satışlı",
+    "Fiyat kategori ortalamasından anormal düşük olabilir"
+  ]
+}

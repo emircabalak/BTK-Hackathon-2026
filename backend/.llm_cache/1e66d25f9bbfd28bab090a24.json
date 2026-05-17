@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Satıcı 285 TL + kargo dahil teklifini sundu. Bu fiyat, hedefim olan 297 TL'nin ve vazgeçme eşiğim olan 332 TL'nin oldukça altında. Stratejik olarak hedef bölgeye ulaşıldı ve teklif oldukça avantajlı. Kapanış aşamasına geçiyorum.",
+  "message": "Harika bir teklif, çok teşekkür ederim. 285 TL kargo dahil fiyatı üzerinden anlaşalım. Hemen siparişimi oluşturuyorum, ilginiz için tekrar teşekkürler.",
+  "intent": "accept",
+  "target_price": 285,
+  "would_accept_price": 332
+}

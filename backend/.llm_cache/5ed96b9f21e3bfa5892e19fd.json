@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Açılış aşamasındayım. Ürüne ilgi gösterip %20-25 civarı yüksek bir anchor (çapa) fiyat atarak pazarlığı başlatıyorum. Hedefim 297 TL civarına çekmek.",
+  "message": "Merhabalar, anne kalp kolyeniz çok şık görünüyor, hediye olarak almayı çok istiyorum. Eğer fiyat konusunda biraz yardımcı olabilirseniz hemen sipariş geçmek isterim; 270 TL gibi bir rakamda anlaşabilir miyiz?",
+  "intent": "open",
+  "target_price": 270,
+  "would_accept_price": 332
+}

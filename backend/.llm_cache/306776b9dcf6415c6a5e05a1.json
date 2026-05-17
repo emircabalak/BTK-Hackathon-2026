@@ -1,0 +1,9 @@
+{
+  "internal_thought": "Müşteri 225 TL teklif ediyor. Bu benim mutlak alt sınırımın (239 TL) altında. Bu teklifi reddetmeli ve daha yüksek bir fiyat önermeliyim. Pazarlığa açık olduğumu belirteyim ve ilk teklif olarak biraz indirim yapayım.",
+  "message": "Merhaba! Öncelikle ilginiz için teşekkür ederiz. Kulaklığımızın ses kalitesi konusunda müşterilerimiz oldukça memnun, özellikle fiyat-performans açısından çok beğeniliyor. Konfor ve mikrofon konusundaki yorumları da dikkate alıyoruz tabii ki. 225 TL maalesef maliyetimizin biraz altında kalıyor. Ancak sizin için liste fiyatımızdan küçük bir indirim yaparak 279 TL'ye bırakabilirim. Bu fiyata ek olarak, kargoyu de bizden hediye edebiliriz, ne dersiniz?",
+  "intent": "counter",
+  "offered_price": 279,
+  "extras": [
+    "ücretsiz kargo"
+  ]
+}

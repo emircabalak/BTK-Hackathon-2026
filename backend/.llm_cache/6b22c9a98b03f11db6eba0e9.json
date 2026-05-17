@@ -1,0 +1,29 @@
+{
+  "fake_ratio": 0.1,
+  "real_sentiment": 0.9,
+  "topics": [
+    {
+      "topic": "kalite",
+      "score": 0.9,
+      "sample": "Deri gerçek, kalitesi süper."
+    },
+    {
+      "topic": "hediye_paketleme",
+      "score": 0.8,
+      "sample": "Hediye paketi şık."
+    },
+    {
+      "topic": "fiyat_performans",
+      "score": 0.7,
+      "sample": "Bu fiyata bu kalite şaşırtıcı."
+    },
+    {
+      "topic": "kalem_kalitesi",
+      "score": 0.3,
+      "sample": "Kalem güzel ama yazımı biraz zor."
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Anneme aldım, çok beğendi. Hediye paketi şık.",
+  "confidence": 0.95
+}

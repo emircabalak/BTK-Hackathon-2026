@@ -1,0 +1,37 @@
+{
+  "ranked_ids": [
+    "kulaklik_002",
+    "kulaklik_001",
+    "kulaklik_003",
+    "hediye_002",
+    "hediye_001",
+    "hediye_003",
+    "hediye_004",
+    "klavye_002",
+    "klavye_003",
+    "klavye_001",
+    "olta_003",
+    "olta_001",
+    "olta_004",
+    "olta_002",
+    "kulaklik_004"
+  ],
+  "scores": {
+    "kulaklik_002": 92,
+    "kulaklik_001": 87,
+    "kulaklik_003": 78,
+    "hediye_002": 85,
+    "hediye_001": 82,
+    "hediye_003": 80,
+    "hediye_004": 75,
+    "klavye_002": 88,
+    "klavye_003": 86,
+    "klavye_001": 83,
+    "olta_003": 70,
+    "olta_001": 68,
+    "olta_004": 65,
+    "olta_002": 60,
+    "kulaklik_004": 55
+  },
+  "reasoning": "Kullanıcının genel persona ve belirtilmeyen bütçe ihtiyacı göz önüne alındığında, yüksek puanlı ve güvenilir satıcılara sahip kulaklıklar öne çıkmaktadır. Ardından anneye yönelik hediye seçenekleri ve son olarak da oyuncu ekipmanları ve olta setleri sıralanmıştır. Genel olarak, yüksek müşteri memnuniyeti ve satıcı güvenilirliği en önemli kriterler olmuştur."
+}

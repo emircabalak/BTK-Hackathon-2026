@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.idea/
+chroma_db/
+*.log
+
+# .llm_cache/ and .scrape_cache/ INTENTIONALLY committed — jury runs cached
+# demo scenarios with zero API quota.

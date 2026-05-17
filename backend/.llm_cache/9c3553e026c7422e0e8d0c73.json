@@ -1,0 +1,9 @@
+{
+  "internal_thought": "Müşteri 255 TL teklif ediyor. Bu benim maliyetimin (215 TL) üzerinde ve mutlak alt sınırımın (239 TL) da üzerinde. Ancak %20 indirim sınırımı (299 * 0.8 = 239.2 TL) da aşmış oluyor. Yani 255 TL benim için uygun bir fiyat. Müşterinin teklifini kabul edebilirim.",
+  "message": "Anlıyorum, orta yolu bulmak harika olur! 255 TL sizin için de uygunsa, hemen şimdi siparişinizi oluşturabiliriz. Bu fiyata ek olarak, kargoyu da yine bizden hediye edelim. Memnuniyetiniz bizim için en önemlisi!",
+  "intent": "accept",
+  "offered_price": 255,
+  "extras": [
+    "ücretsiz kargo"
+  ]
+}

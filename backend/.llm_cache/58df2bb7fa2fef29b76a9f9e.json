@@ -1,0 +1,39 @@
+{
+  "fake_ratio": 0.0,
+  "real_sentiment": 0.95,
+  "topics": [
+    {
+      "topic": "ses kalitesi",
+      "score": 0.9,
+      "sample": "bas mükemmel."
+    },
+    {
+      "topic": "pil ömrü",
+      "score": 0.8,
+      "sample": "44 saat gerçekten dayanıyor"
+    },
+    {
+      "topic": "aktif gürültü engelleme",
+      "score": 0.7,
+      "sample": "ANC etkili."
+    },
+    {
+      "topic": "konfor",
+      "score": -0.2,
+      "sample": "Kulak yastıkları biraz sıkı"
+    },
+    {
+      "topic": "fiyat performans",
+      "score": 0.6,
+      "sample": "fiyatı uygun."
+    },
+    {
+      "topic": "satıcı güvenilirliği",
+      "score": 0.9,
+      "sample": "satıcı güvenilir"
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Orijinal JBL, satıcı güvenilir, bas mükemmel.",
+  "confidence": 0.9
+}

@@ -1,0 +1,67 @@
+{
+  "query": "bluetooth kulaklık",
+  "max_price": 400,
+  "fetched_at": 1778953828.75327,
+  "products": [
+    {
+      "product_id": "trendyol_143889066",
+      "title": "Favors Dots E6s Bluetooth Kulaklık Hd Ses Extra Bass Yüksek Mikrofon Kalitesi",
+      "price": 300.0,
+      "url": "https://www.trendyol.com/favors/dots-e6s-bluetooth-kulaklik-hd-ses-extra-bass-yuksek-mikrofon-kalitesi-p-143889066?boutiqueId=61&merchantId=754296",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250507/18/34e58bc9-6cfd-3cd1-88eb-02659ae3eb19/1_org_zoom.jpg",
+      "rating": 3.8,
+      "review_count": 8545,
+      "seller_name": "Favors"
+    },
+    {
+      "product_id": "trendyol_686617253",
+      "title": "Piranha 9960 Kablosuz TWS Bluetooth Kulak İçi Kulaklık | Mikrofonlu | Şarjlı | iOS/Android",
+      "price": 399.99,
+      "url": "https://www.trendyol.com/piranha/9960-kablosuz-tws-bluetooth-kulak-ici-kulaklik-mikrofonlu-sarjli-ios-android-p-686617253?boutiqueId=61&merchantId=4354",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1831/prod/QC_ENRICHMENT/20260228/00/822d11f1-4513-3b1c-b6a6-4f7e5525c80a/1_org_zoom.jpg",
+      "rating": 3.8,
+      "review_count": 795,
+      "seller_name": "Piranha"
+    },
+    {
+      "product_id": "trendyol_930195842",
+      "title": "BLOOFY TECH P9 Kafa Ustu Kablosuz Kulaklık Tum Cihazlara Uyumludur",
+      "price": 300.0,
+      "url": "https://www.trendyol.com/bloofy-tech/p9-kafa-ustu-kablosuz-kulaklik-tum-cihazlara-uyumludur-p-930195842?boutiqueId=61&merchantId=652057",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1677/prod/QC/20250516/17/2bcf4f4c-0ab4-3da5-82eb-b2df59d869e7/1_org_zoom.jpg",
+      "rating": 3.7,
+      "review_count": 93,
+      "seller_name": "BLOOFY TECH"
+    },
+    {
+      "product_id": "trendyol_653210911",
+      "title": "ERKUGO Airpods Bluetooth Kulaklık Temizleyici Elektronik Ürün Telefon Temizleme Kiti",
+      "price": 146.99,
+      "url": "https://www.trendyol.com/erkugo/airpods-bluetooth-kulaklik-temizleyici-elektronik-urun-telefon-temizleme-kiti-p-653210911?boutiqueId=61&merchantId=478294",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1516/product/media/images/prod/QC/20240831/13/ca4805cf-84f2-36f4-a3b5-377ccd783e53/1_org_zoom.jpg",
+      "rating": 4.5,
+      "review_count": 834,
+      "seller_name": "ERKUGO"
+    },
+    {
+      "product_id": "trendyol_761632839",
+      "title": "TrkTech Type-c To 3.5 mm Aux Audio Kablo Araç İçi Uyumlu Aux Kablosu",
+      "price": 189.9,
+      "url": "https://www.trendyol.com/trktech/type-c-to-3-5-mm-aux-audio-kablo-arac-ici-uyumlu-aux-kablosu-p-761632839?boutiqueId=61&merchantId=260497",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1001/product/media/images/prod/SPM/PIM/20230913/16/acd48ae9-a51c-3d9c-99c3-4aee05a160a2/1_org_zoom.jpg",
+      "rating": 4.2,
+      "review_count": 166,
+      "seller_name": "TrkTech"
+    },
+    {
+      "product_id": "trendyol_1102232331",
+      "title": "Havit E336C Type-C Kablolu Kulak İçi Kulaklık – 14.2mm Sürücü, Yüksek Ses Kalitesi, Mikrofonlu",
+      "price": 199.0,
+      "url": "https://www.trendyol.com/havit/e336c-type-c-kablolu-kulak-ici-kulaklik-14-2mm-surucu-yuksek-ses-kalitesi-mikrofonlu-p-1102232331?boutiqueId=689770&merchantId=968",
+      "image_url": "https://cdn.dsmcdn.com/mnresize/400/-/ty1824/prod/QC_ENRICHMENT/20260213/13/14731d53-b492-371d-a525-88a706e12d23/1_org_zoom.jpg",
+      "rating": 4.0,
+      "review_count": 73,
+      "seller_name": "Havit"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "fake_ratio": 0.5,
+  "real_sentiment": 0.0,
+  "topics": [
+    {
+      "topic": "kalite",
+      "score": -0.8,
+      "sample": "Resimde gördüğümden farklı geldi, kalite kötü."
+    },
+    {
+      "topic": "bağlantı",
+      "score": -1.0,
+      "sample": "Bluetooth bağlantısı sürekli kopuyor."
+    },
+    {
+      "topic": "genel_memnuniyet",
+      "score": 0.0,
+      "sample": "Harika ürün, çok memnun kaldım. Tavsiye ederim."
+    }
+  ],
+  "red_flags": [
+    "İlk 4 yorumun tamamı aynı ve jenerik övgü içeriyor. Kullanıcı adları da şüpheli.",
+    "Satıcı puanı (4.3) ürünün yüksek ratingi (4.9) ile uyumlu değil.",
+    "Ürünün marka belirtilmemesi ve 'Pro Max+' gibi isimler sahte ürün algısı yaratabilir."
+  ],
+  "representative_quote": "Bluetooth bağlantısı sürekli kopuyor.",
+  "confidence": 0.8
+}

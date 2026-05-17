@@ -1,0 +1,45 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Secrets — NEVER commit
+.env
+.env.local
+**/.env
+**/.env.local
+**/secrets.json
+
+# Backend (Python)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.sqlite
+*.sqlite3
+*.log
+
+# Frontend (Node)
+node_modules/
+.next/
+out/
+.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+*.tsbuildinfo
+dist/
+build/
+
+# Claude / local tooling
+.claude/
+
+# Note: .llm_cache/ and .scrape_cache/ are INTENTIONALLY committed
+# so the jury can run cached demo scenarios with 0 quota.

@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Açılış aşamasındayım. Ürüne ilgimi belirttim ancak yorumlardaki mikrofon ve konfor şikayetlerini koz olarak kullanarak yüksek bir indirim (anchor) talep ettim. Hedefim fiyatı 254 TL civarına çekmek için 230 TL'den kapı açmak.",
+  "message": "Merhaba, hayırlı satışlar. Oyuncu kuzenim için bu kulaklığı düşünüyoruz ancak yorumlarda mikrofon kalitesi ve konforla ilgili bazı şikayetler gördüm. Bu riskleri de göze alarak, fiyatta bir güzellik yapıp 230 TL'ye bırakırsanız hemen alımı gerçekleştirmek isteriz.",
+  "intent": "open",
+  "target_price": 230,
+  "would_accept_price": 284
+}

@@ -1,0 +1,24 @@
+{
+  "fake_ratio": 0.0,
+  "real_sentiment": 0.95,
+  "topics": [
+    {
+      "topic": "ürün_kalitesi",
+      "score": 0.8,
+      "sample": "Annem fanusu hâlâ vitrinde saklıyor."
+    },
+    {
+      "topic": "ambalaj",
+      "score": 0.9,
+      "sample": "Cam fanus sağlam, ambalaj harika."
+    },
+    {
+      "topic": "renk_tonu",
+      "score": 0.3,
+      "sample": "Renk fotoğraftan daha koyu çıktı ama güzel."
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Annem fanusu hâlâ vitrinde saklıyor.",
+  "confidence": 0.9
+}

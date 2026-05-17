@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Açılış aşamasındayım. Ürünü beğendiğimi belirtip yüksek bir indirim oranıyla (%25 civarı) pazarlığı başlatıyorum. Hedefim satıcıyı orta noktaya çekmek.",
+  "message": "Merhaba, annem için doğum günü hediyesi olarak bu kolyeyi çok beğendim. Eğer fiyatta bir kolaylık yapıp 265 TL'ye bırakabilirseniz hemen satın almak istiyorum.",
+  "intent": "open",
+  "target_price": 297,
+  "would_accept_price": 332
+}

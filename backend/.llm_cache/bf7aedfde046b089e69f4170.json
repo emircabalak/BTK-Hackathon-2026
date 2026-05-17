@@ -1,0 +1,34 @@
+{
+  "fake_ratio": 0.0,
+  "real_sentiment": 0.86,
+  "topics": [
+    {
+      "topic": "ses_kalitesi",
+      "score": 0.9,
+      "sample": "Ses kalitesi fiyatına göre çok iyi, ANC harika."
+    },
+    {
+      "topic": "pil_omru",
+      "score": 0.8,
+      "sample": "Pil ömrü uzun, kargo hızlıydı."
+    },
+    {
+      "topic": "fiyat_performans",
+      "score": 0.9,
+      "sample": "Bu fiyata muhteşem, herkese öneririm."
+    },
+    {
+      "topic": "konfor",
+      "score": -0.3,
+      "sample": "Konfor biraz kıymadan sonra azalıyor ama genel iyi."
+    },
+    {
+      "topic": "mikrofon",
+      "score": -0.7,
+      "sample": "Mikrofon zayıf, görüşmelerde sıkıntı."
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Ses kalitesi fiyatına göre çok iyi, ANC harika. Pil ömrü uzun, kargo hızlıydı. Bu fiyata muhteşem, herkese öneririm.",
+  "confidence": 0.95
+}

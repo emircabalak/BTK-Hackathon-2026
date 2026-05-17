@@ -1,0 +1,37 @@
+{
+  "ranked_ids": [
+    "kulaklik_002",
+    "kulaklik_001",
+    "kulaklik_003",
+    "hediye_002",
+    "hediye_003",
+    "hediye_004",
+    "klavye_002",
+    "klavye_003",
+    "klavye_001",
+    "hediye_001",
+    "kulaklik_004",
+    "olta_003",
+    "olta_001",
+    "olta_004",
+    "olta_002"
+  ],
+  "scores": {
+    "kulaklik_002": 92,
+    "kulaklik_001": 85,
+    "kulaklik_003": 78,
+    "hediye_002": 75,
+    "hediye_003": 72,
+    "hediye_004": 70,
+    "klavye_002": 68,
+    "klavye_003": 65,
+    "klavye_001": 62,
+    "hediye_001": 60,
+    "kulaklik_004": 55,
+    "olta_003": 50,
+    "olta_001": 48,
+    "olta_004": 45,
+    "olta_002": 40
+  },
+  "reasoning": "Kullanıcının 'test' gereksinimini karşılayan ve genel persona için uygun olan kulaklıklar, yüksek puanlarla listenin başında yer alıyor. Ardından, hediye kategorisindeki ürünler, genel kullanıma uygunlukları ve iyi puanları nedeniyle sıralanıyor. Diğer kategorilerdeki ürünler, gereksinimlerle daha az uyumlu oldukları için daha düşük puanlar alıyor."
+}

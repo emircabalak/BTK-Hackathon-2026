@@ -1,0 +1,29 @@
+{
+  "fake_ratio": 0.1,
+  "real_sentiment": 0.95,
+  "topics": [
+    {
+      "topic": "tuş_hissi",
+      "score": 0.9,
+      "sample": "tactile his harika"
+    },
+    {
+      "topic": "tasarım_ve_boyut",
+      "score": 0.8,
+      "sample": "TKL formatı masada yer açıyor"
+    },
+    {
+      "topic": "aydınlatma",
+      "score": 0.7,
+      "sample": "aydınlatma yumuşak"
+    },
+    {
+      "topic": "kalite",
+      "score": 0.9,
+      "sample": "Logitech kalitesi belli"
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Logitech kalitesi belli, tactile his harika.",
+  "confidence": 0.9
+}

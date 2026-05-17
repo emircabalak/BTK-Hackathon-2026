@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Müşteri 265 TL teklif ediyor. Bu benim mutlak alt sınırım olan 279 TL'nin altında. Bu teklifi reddetmeliyim ama kibarca ve pazarlığa açık olduğumu belirtmeliyim. İlk turda küçük bir jest yapabilirim, bu yüzden 349 TL'den biraz indirim yaparak (örneğin %10-15) yeni bir teklif sunabilirim. %15 indirim 296.65 TL yapar. 299 TL'ye yuvarlayabilirim. Bu hem alt sınırıma yakın hem de müşteriye bir jest olur.",
+  "message": "Merhaba! Öncelikle anneniz için düşündüğünüz bu güzel hediye için şimdiden tebrikler. Ürünümüz gerçekten çok özel ve sevgi dolu bir hediye olacaktır. Teklifiniz için teşekkür ederim ancak belirttiğiniz 265 TL maalesef maliyetimizin altında kalıyor. Bu özel gümüş kolyeyi sizin için daha uygun hale getirmek adına 299 TL'ye bırakabilirim. Ne dersiniz?",
+  "intent": "counter",
+  "offered_price": 299,
+  "extras": []
+}

@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Satıcı teklifimi kabul etti ve fiyat 255 TL'ye düştü. Bu rakam hedeflediğim %15 indirim oranına (~254 TL) neredeyse tam olarak uyuyor ve vazgeçme eşiğim olan 284 TL'nin oldukça altında. Stratejik olarak hedef bölgeye ulaşıldığı için anlaşmayı kapatıyorum.",
+  "message": "Harikasınız, ilginiz ve desteğiniz için çok teşekkür ederim. 255 TL ve ücretsiz kargo teklifinizi kabul ediyorum. Fiyatı güncelleyebilirseniz hemen alımı gerçekleştiriyorum.",
+  "intent": "accept",
+  "target_price": 255,
+  "would_accept_price": 284
+}

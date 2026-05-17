@@ -1,0 +1,29 @@
+{
+  "fake_ratio": 0.0,
+  "real_sentiment": 0.98,
+  "topics": [
+    {
+      "topic": "hediye_memnuniyeti",
+      "score": 0.95,
+      "sample": "Annemin doğumgününde verdim, ağladı."
+    },
+    {
+      "topic": "kalite_ve_işçilik",
+      "score": 0.9,
+      "sample": "Yazı çok temiz, sertifika ile geldi."
+    },
+    {
+      "topic": "fiyat_performans",
+      "score": 0.85,
+      "sample": "Bu kalitede bu fiyata bulunmaz."
+    },
+    {
+      "topic": "kargo",
+      "score": 0.3,
+      "sample": "Kargo geç geldi ama ürün mükemmel."
+    }
+  ],
+  "red_flags": [],
+  "representative_quote": "Annemin doğumgününde verdim, ağladı.",
+  "confidence": 0.95
+}

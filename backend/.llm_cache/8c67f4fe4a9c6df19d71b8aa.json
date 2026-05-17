@@ -1,0 +1,9 @@
+{
+  "internal_thought": "Müşteri 299 TL'yi makul buldu ama hala pazarlık yapıyor. 285 TL istiyor. Maliyet alt sınırı 279 TL. 285 TL'ye inebilirim ama kargo da istiyor. Ücretsiz kargo teklif edebilirim ya da doğrudan 285 TL'ye indirebilirim. İlk turda küçük bir jest yapmıştım, şimdi biraz daha esneyebilirim ama kargo da isterse onu ekstralara ekleyip fiyatı 299 TL'de tutmak daha mantıklı. Ya da 285 TL'ye inerim, kargo dahil. Hadi 285 TL'ye inelim, hem müşteriyi memnun eder hem de alt sınıra yakın olurum.",
+  "message": "Anlıyorum, sizin için en uygununu yapmaya çalışalım. 285 TL'ye kargo dahil olarak size özel düzenleyebilirim. Bu harika bir anne hediyesi olacak, eminim çok beğenecektir. Siparişinizi hemen oluşturalım mı?",
+  "intent": "counter",
+  "offered_price": 285,
+  "extras": [
+    "ücretsiz kargo"
+  ]
+}

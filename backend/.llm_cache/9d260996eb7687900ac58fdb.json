@@ -1,0 +1,31 @@
+{
+  "fake_ratio": 0.25,
+  "real_sentiment": 0.75,
+  "topics": [
+    {
+      "topic": "ses_kalitesi",
+      "score": 0.9,
+      "sample": "Oyunda yön tayini çok iyi, mikrofon temiz."
+    },
+    {
+      "topic": "tasarım_ve_ışıklandırma",
+      "score": 0.7,
+      "sample": "RGB cazip"
+    },
+    {
+      "topic": "uyumluluk",
+      "score": 0.3,
+      "sample": "PS5'te driver sorunu yaşadım, PC'de sorun yok."
+    },
+    {
+      "topic": "kablo_uzunluğu",
+      "score": -0.5,
+      "sample": "kabloyu kısa buldum."
+    }
+  ],
+  "red_flags": [
+    "PS5'te driver sorunu yaşanması"
+  ],
+  "representative_quote": "Oyunda yön tayini çok iyi, mikrofon temiz.",
+  "confidence": 0.85
+}

@@ -1,0 +1,9 @@
+{
+  "internal_thought": "Müşteri 255 TL'ye indirim istiyor. Bu benim mutlak alt sınırımın (239 TL) üzerinde ama ilk teklifimden (279 TL) daha düşük. %20 indirim limitim var (299 * 0.80 = 239.2 TL). 255 TL kabul edilebilir bir teklif, maliyetimin üzerinde ve pazarlık payım var. Müşteriyi memnun etmek için bu fiyata inebilirim ve belki küçük bir ekstrayla süsleyebilirim.",
+  "message": "Anlıyorum, bütçeyi düşünmek önemli. Sizin için 255 TL'ye indirebilirim, bu da size yaklaşık %15'lik bir indirim demek oluyor. Üstelik kargo da bizden! Bu fiyata hem kaliteli bir ürün hem de ücretsiz kargo, bence kaçırılmayacak bir fırsat. Ne dersiniz, bu fiyattan anlaşalım mı?",
+  "intent": "counter",
+  "offered_price": 255,
+  "extras": [
+    "ücretsiz kargo"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fake_ratio": 1.0,
+  "real_sentiment": 0.0,
+  "topics": [
+    {
+      "topic": "kalite",
+      "score": 0.0,
+      "sample": "Harika ürün, çok memnun kaldım. Tavsiye ederim."
+    },
+    {
+      "topic": "hediye_seti",
+      "score": 0.0,
+      "sample": "Harika ürün, çok memnun kaldım. Tavsiye ederim."
+    }
+  ],
+  "red_flags": [
+    "Tüm yorumlar aynı metni içeriyor ve sadece 5 yıldız verilmiş.",
+    "Kullanıcı adları anonim veya test amaçlı görünüyor.",
+    "Yorum sayısı düşük olmasına rağmen ürünün puanı çok yüksek (4.9).",
+    "Satıcı puanı (4.3) ürün puanına göre düşük."
+  ],
+  "representative_quote": "Harika ürün, çok memnun kaldım. Tavsiye ederim.",
+  "confidence": 0.95
+}

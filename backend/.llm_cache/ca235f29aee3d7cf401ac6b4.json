@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Müşteri 270 TL teklif ediyor. Bu benim mutlak alt sınırımın (279 TL) altında. Bu yüzden teklifi reddetmeli ve biraz daha yukarıda bir fiyat teklif etmeliyim. İlk turda küçük bir jest yapabilirim, bu yüzden 339 TL'yi teklif edebilirim. Bu, pazarlık için iyi bir başlangıç noktası olacaktır.",
+  "message": "Merhaba, öncelikle ilginiz için çok teşekkür ederim. Anne kalp kolyemiz gerçekten de çok özel ve zarif bir modeldir, hediye için harika bir seçim olur. Teklifiniz için de sağ olun, ancak 270 TL benim için biraz düşük kalıyor. Bu özel tasarım için size 339 TL gibi bir fiyat sunabilirim. Bu fiyata hem ürünün kalitesini hem de kişiye özel yazım hizmetini dahil ediyoruz. Ne dersiniz?",
+  "intent": "counter",
+  "offered_price": 339,
+  "extras": []
+}

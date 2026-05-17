@@ -1,0 +1,9 @@
+{
+  "internal_thought": "Müşteri 230 TL teklif ediyor, benim alt sınırım 239 TL. Teklif reddedilmeli ama kibarca ve pazarlığa açık olduğumu belirtmeliyim. Yorumlardaki şikayetlere değinip, ürünün güçlü yanlarını vurgulayarak fiyatı savunabilirim. Küçük bir jest olarak da ilk teklifte ücretsiz kargo sunabilirim.",
+  "message": "Hayırlı akşamlar! Ürünümüzle ilgilendiğiniz için çok teşekkür ederiz. Yorumlardaki geri bildirimleri dikkate alıyoruz tabii ki, ancak bu model özellikle ses kalitesi ve fiyat-performansıyla çok beğeniliyor, birçok müşterimiz de bu konuda memnuniyetini dile getiriyor. Kuzeniniz için harika bir hediye olacaktır eminim. 230 TL maalesef maliyetimizin biraz altında kalıyor. Ama sizin için ilk teklif olarak 279 TL'ye bırakabilirim, üstelik ücretsiz kargo ile gönderimini sağlarım. Ne dersiniz?",
+  "intent": "counter",
+  "offered_price": 279,
+  "extras": [
+    "ücretsiz kargo"
+  ]
+}

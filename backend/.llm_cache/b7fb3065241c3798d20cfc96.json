@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Satıcı sadece 10 TL indirim yaptı (339 TL), bu rakam benim vazgeçme eşiğim olan 332 TL'nin üzerinde. İkinci turda daha güçlü bir karşı teklif yaparak hedefim olan 297 TL civarına çekmeye çalışacağım. Hızlı alım ve olumlu yorum potansiyelini vurgulayacağım.",
+  "message": "Hızlı dönüşünüz için teşekkürler. Bütçemi biraz zorlayarak 300 TL teklif etmek istiyorum. Eğer bu fiyatta el sıkışabilirsek hemen şimdi siparişi onaylayacağım ve memnuniyetimi yorumlarda da belirteceğim. Uygun mudur?",
+  "intent": "counter",
+  "target_price": 300,
+  "would_accept_price": 332
+}

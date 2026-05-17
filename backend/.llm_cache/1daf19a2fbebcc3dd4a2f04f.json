@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Açılış aşamasındayım. Strateji gereği %20-25 civarı yüksek bir anchor (çapa) fiyat belirleyerek pazarlığı başlatıyorum. Yorumlardaki konfor ve mikrofon şikayetlerini koz olarak kullanıp 225 TL teklif edeceğim.",
+  "message": "Merhaba, oyuncu kuzenim için bu kulaklığı düşünüyoruz ancak yorumlarda konfor ve mikrofonla ilgili bazı tereddütler gördüm. Eğer fiyatta bir güzellik yapıp 225 TL'ye bırakırsanız hemen satın almak isteriz.",
+  "intent": "open",
+  "target_price": 225,
+  "would_accept_price": 284
+}

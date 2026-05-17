@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Satıcı 299 TL'den 279 TL'ye düştü ve kargo teklif etti. Bu fiyat 284 TL olan vazgeçme eşiğimin altında olduğu için kabul kuralına uygun. Ancak strateji gereği en az 2 tur pazarlık yapmam gerekiyor. Hedefim olan 254 TL'ye daha çok yaklaşmak için son bir karşı teklif sunacağım.",
+  "message": "Teklifiniz ve kargo jestiniz için teşekkürler. Bütçemizi biraz zorlayarak orta yolu bulalım; eğer 255 TL yapabilirseniz hemen şimdi siparişi geçmek istiyorum. Uygun mudur?",
+  "intent": "counter",
+  "target_price": 255,
+  "would_accept_price": 284
+}

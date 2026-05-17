@@ -1,0 +1,7 @@
+{
+  "internal_thought": "Satıcı 319 TL teklif etti. Bu rakam benim vazgeçme eşiğim olan 332 TL'nin altında ve hedefim olan 297 TL'ye oldukça yakın. Stratejik olarak 2 tur pazarlık yapıldı ve satıcı iki kez indirim yaptı. Daha fazla zorlamak satıcıyı kaçırabilir, bu yüzden kabul aşamasına geçiyorum.",
+  "message": "Anlayışınız ve jestiniz için çok teşekkür ederim, 319 TL benim için de uygundur. Hemen siparişimi oluşturuyorum, ilginiz için sağ olun.",
+  "intent": "accept",
+  "target_price": 319,
+  "would_accept_price": 332
+}
