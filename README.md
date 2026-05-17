@@ -48,20 +48,9 @@ Quota notu: free tier ~20 istek/gün/model. Bir pipeline ~25-30 çağrı yapar.
 ```
 BTK Hackaton 2026/
 ├── README.md                     ← bu dosya
-├── AgentMarket-Pitch.pptx        ← Jüri sunum (6 slayt)
+├── AgentMarket-Pitch.pptx        ← Sunum (5 slayt)
 ├── AgentMarket-Pitch.pdf
 ├── build_pitch.js                ← Pitch deck'i regenerate eder
-│
-├── 01-PLAN.md                    ← Faz bazlı uygulama planı
-├── 02-ARCHITECTURE.md            ← LangGraph topolojisi, state şeması
-├── 03-AGENTS.md                  ← 5 ajan + prompt spec'leri
-├── 04-TECH-STACK.md              ← Teknoloji seçimleri ve gerekçe
-├── 05-UI-UX.md                   ← 3 sahne tasarımı
-├── 06-DEMO-SCRIPT.md             ← 3 dk jüri demo akışı
-├── 07-JURY-PITCH.md              ← Pitch içerikleri (slayt kaynağı)
-├── 08-TIMELINE.md                ← T-14 → T-0 günlük plan
-├── 09-RISKS.md                   ← 12 risk + Plan B/C/D
-├── 10-DATA-SOURCES.md            ← Scraping, sandbox stratejisi
 │
 ├── backend/                      ← FastAPI + LangGraph + Gemini
 │   ├── README.md                 ← Backend detayı
@@ -126,7 +115,7 @@ BTK Hackaton 2026/
    └────────┘  └──────────┘  └──────────────┘
 ```
 
-Detay: [02-ARCHITECTURE.md](02-ARCHITECTURE.md), [03-AGENTS.md](03-AGENTS.md).
+Backend detayı: [backend/README.md](backend/README.md).
 
 ---
 
@@ -143,28 +132,17 @@ Detay: [02-ARCHITECTURE.md](02-ARCHITECTURE.md), [03-AGENTS.md](03-AGENTS.md).
 
 ---
 
-## Demo İçin
+## Sunum
 
-1. **Pitch deck:** [AgentMarket-Pitch.pptx](AgentMarket-Pitch.pptx) (6 slayt)
-2. **Demo script:** [06-DEMO-SCRIPT.md](06-DEMO-SCRIPT.md) (3 dakika akış)
-3. **Altın senaryolar:** `kulaklik`, `olta`, `klavye`, `anne_hediye`
+- [AgentMarket-Pitch.pptx](AgentMarket-Pitch.pptx) — 5 slayt
+- Altın senaryolar: `kulaklik`, `olta`, `klavye`, `anne_hediye` (cache'de hazır)
 
-Demo öncesi cache hazırlama:
+Cache'i yenilemek için (live çalıştırıp diske yat):
 
 ```bash
 cd backend
 # .env'de MOCK_MODE=false ve geçerli GEMINI_API_KEY olmalı
 python -m scripts.build_cache
-# 4 altın senaryoyu live çalıştırır → cache'e yatar
-# Sonrası demo: ~5sn end-to-end, 0 quota
-```
-
-## Risk yönetimi
-
-Detay: [09-RISKS.md](09-RISKS.md). Özet Plan B/C/D hiyerarşisi:
-
-```
-Live → Cache mode → Pre-recorded video → Slayt anlatımı → Sözlü pitch
 ```
 
 ---

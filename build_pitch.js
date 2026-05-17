@@ -149,7 +149,7 @@ async function main() {
     search: await icon(FaSearch, CYAN),
   };
 
-  const TOTAL = 6;
+  const TOTAL = 5;
 
   // ════════════════════════════════════════════════════════════
   // Slide 1 — TITLE
@@ -581,113 +581,6 @@ async function main() {
     });
 
     pageNum(s, 5, TOTAL);
-  }
-
-  // ════════════════════════════════════════════════════════════
-  // Slide 6 — ROADMAP
-  // ════════════════════════════════════════════════════════════
-  {
-    const s = pres.addSlide();
-    s.background = { color: BG };
-
-    chip(s, pres, { x: 0.6, y: 0.5, w: 2.0, text: "YOL HARİTASI", color: EMERALD });
-    s.addText("Hackathon'dan ürüne", {
-      x: 0.6, y: 1.0, w: 12, h: 0.7,
-      fontFace: HEADER_FONT,
-      fontSize: 32,
-      bold: true,
-      color: TEXT,
-      valign: "middle",
-    });
-
-    // Horizontal timeline
-    const tl = [
-      { when: "ŞİMDİ", what: "Hackathon MVP", detail: "4 ajan + sandbox + canlı UI", color: EMERALD },
-      { when: "1 AY", what: "Browser Extension", detail: "Chrome + Edge", color: CYAN },
-      { when: "3 AY", what: "Partner Pilotu", detail: "Trendyol / Hepsiburada", color: VIOLET },
-      { when: "6 AY", what: "Mobil + B2B", detail: "Satıcı tarafı sürümü", color: AMBER },
-      { when: "1 YIL", what: "AI Alışveriş Katmanı", detail: "Türkiye için", color: ROSE },
-    ];
-
-    const ty = 2.2;
-    const stepW = 2.4;
-    const startX = 0.65;
-    const gap = 0.1;
-
-    // Connecting baseline
-    s.addShape(pres.shapes.LINE, {
-      x: startX + 0.6, y: ty + 0.55, w: (5 * stepW + 4 * gap) - 1.2, h: 0,
-      line: { color: BORDER, width: 1.5 },
-    });
-
-    tl.forEach((step, i) => {
-      const x = startX + i * (stepW + gap);
-      // Numbered circle
-      s.addShape(pres.shapes.OVAL, {
-        x: x + stepW / 2 - 0.4, y: ty + 0.15, w: 0.8, h: 0.8,
-        fill: { color: BG_CARD_HI },
-        line: { color: step.color, width: 1.5 },
-      });
-      s.addText(String(i + 1), {
-        x: x + stepW / 2 - 0.4, y: ty + 0.15, w: 0.8, h: 0.8,
-        fontFace: HEADER_FONT,
-        fontSize: 22,
-        bold: true,
-        color: step.color,
-        align: "center",
-        valign: "middle",
-      });
-
-      // When chip
-      s.addText(step.when, {
-        x, y: ty + 1.15, w: stepW, h: 0.3,
-        fontFace: BODY_FONT,
-        fontSize: 10,
-        color: step.color,
-        bold: true,
-        charSpacing: 4,
-        align: "center",
-        valign: "middle",
-      });
-
-      // What
-      s.addText(step.what, {
-        x, y: ty + 1.5, w: stepW, h: 0.5,
-        fontFace: HEADER_FONT,
-        fontSize: 15,
-        bold: true,
-        color: TEXT,
-        align: "center",
-        valign: "middle",
-      });
-
-      // Detail
-      s.addText(step.detail, {
-        x: x + 0.1, y: ty + 2.05, w: stepW - 0.2, h: 0.7,
-        fontFace: BODY_FONT,
-        fontSize: 11,
-        color: TEXT_MUTED,
-        align: "center",
-        valign: "top",
-      });
-    });
-
-    // Closing statement
-    const cy = 5.6;
-    fillCard(s, pres, { x: 0.6, y: cy, w: 12.1, h: 1.2, accent: "left", accentColor: EMERALD });
-    s.addText([
-      { text: "Slayttaki tüm gereklilikleri karşıladık. ", options: { color: TEXT_MUTED } },
-      { text: "Gemini ana ürün, LangGraph orkestrasyon, A2A çoklu-ajan protokolü.\n", options: { color: TEXT, bold: true, breakLine: true } },
-      { text: "Üretime hazır mimari. Hackathon zamanı geldi.", options: { color: EMERALD, italic: true, fontSize: 17, bold: true } },
-    ], {
-      x: 0.85, y: cy + 0.15, w: 11.6, h: 0.9,
-      fontFace: BODY_FONT,
-      fontSize: 15,
-      align: "left",
-      valign: "middle",
-    });
-
-    pageNum(s, 6, TOTAL);
   }
 
   // ───────────────────────────────────────────────────────────────
