@@ -38,8 +38,6 @@ yarn-error.log*
 dist/
 build/
 
-# Claude / local tooling
-.claude/
 
 # Note: .llm_cache/ and .scrape_cache/ are INTENTIONALLY committed
 # so the jury can run cached demo scenarios with 0 quota.
